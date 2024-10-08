@@ -1,0 +1,16 @@
+# Basic libraries for data manipulation and array operations
+pandas>=1.1.5
+numpy>=1.19.5,<=1.24.0
+
+# Visualization and mapping tools
+matplotlib>=3.3.2
+seaborn>=0.11.0
+folium>=0.12.1
+
+# Machine Learning and data processing libraries
+scikit-learn>=0.24.2
+scipy==1.7.3  # Specified version for compatibility
+
+# Libraries for working with image metadata and pattern matching
+exifread>=2.3.2
+regex>=2021.4.4
